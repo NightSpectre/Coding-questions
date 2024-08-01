@@ -1,0 +1,4 @@
+Divide and Conquer - it is a problem solving approach in which we divide the problem into
+                     sub-problems, find solutions to each sub-problems, then combine to get result
+
+Ex- Binary search, Merge Sort

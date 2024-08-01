@@ -1,0 +1,4 @@
+Brute Force - It is a problem solving question in which  we try all the possibilities by 
+              trial and error approach until we find a solution
+
+Ex- Travelling Salesman problem
