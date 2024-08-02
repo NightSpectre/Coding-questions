@@ -1,0 +1,7 @@
+Merge sort - For merge sort we use divide and conquer approach in which we keep on dividing the list by half
+             until we get individual elements, then we combine them by sorting until we get fully sorted list
+
+approach used - divide and conquer
+
+Time complexity - nlog(n)
+Space complexity - (n)
