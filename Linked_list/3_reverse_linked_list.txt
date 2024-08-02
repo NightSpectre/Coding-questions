@@ -1,0 +1,2 @@
+For reversing linked list, simply traverse nodes in the linked list and store it in a list 
+and reverse the list, then create a new linked list from reversed list
