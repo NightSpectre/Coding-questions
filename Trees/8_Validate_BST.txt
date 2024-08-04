@@ -1,0 +1,2 @@
+To check if a tree is Binary search tree or not, we can do inorder traversal and see if the 
+nodes data are in ascending order

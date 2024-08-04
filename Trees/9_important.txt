@@ -1,0 +1,2 @@
+Level order traversal, left view, right view,  - preorder
+height of a tree - postorder
