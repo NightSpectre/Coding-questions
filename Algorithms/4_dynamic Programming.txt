@@ -1,0 +1,5 @@
+Dynamic programming -It is a problem solving approach in which we we divide the problem into sub-problems,
+                     so that the soluton of one sub-problem can be used to find solution of another 
+		     sub-problem to find the optimal solution
+
+Ex- Knapsack problem

@@ -1,0 +1,8 @@
+Greedy algorithm - It is a problem solving approach in which we make a locally-optimal solution 
+                   which seems to be the best at the moment to find globally optimal solution
+
+Ex- For minimum num,ber of coins required to male a change from the available list of coinys
+
+36 cents {1,2,5,20,10}
+
+giving coin with large vlue as first preference

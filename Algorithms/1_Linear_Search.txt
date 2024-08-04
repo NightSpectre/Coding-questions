@@ -1,0 +1,8 @@
+Linear Search - It is a searching algorithm used to search for a number in an
+                unsorted list
+
+Time Complexity - O(n)
+Space Complexity - O(1)
+
+
+Iterative approach - It executes steps in a sequencial manner to find solution
